@@ -1,6 +1,18 @@
 /* placeholder comment */
 
+body {
+  background-color: purple;
+}
+
 h1 {
-  color: blue;
+  color: white;
   font-family: Helvetica;
+}
+
+p {
+  color: fuchsia;
+}
+
+ul {
+  background-color: silver;
 }
