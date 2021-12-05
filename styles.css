@@ -2,17 +2,38 @@
 
 body {
   background-color: purple;
+  margin: 50px;
 }
 
 h1 {
-  color: white;
+  background-color: black;
+  color: whitesmoke;
   font-family: Helvetica;
+  padding: 15px;
+}
+
+h2 {
+  font-family: serif;
+  font-style: italic;
+  color: grey;
 }
 
 p {
   color: fuchsia;
+  border: solid 2px black;
+  padding: 15px;
 }
 
 ul {
-  background-color: silver;
+  background-color: black;
+  color: white;
+}
+
+li {
+  padding: 3px;
+  font-weight: bold;
+}
+
+a {
+  color: white;
 }
